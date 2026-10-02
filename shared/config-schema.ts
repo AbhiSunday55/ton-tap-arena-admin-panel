@@ -187,8 +187,8 @@ export const DEFAULT_CONFIG: GameConfig = {
   shopCoinMultiplier: 100_000,
 
   adEnabled: true,
-  adProvider: "placeholder",
-  adUnitId: "PLACEHOLDER-AD-BLOCK-0001",
+  adProvider: "adsgram",
+  adUnitId: "int-51466",
   adLink: "https://example.com/replace-with-your-ad-network",
   adRewardCoin: 2500,
   adDailyLimit: 5,
